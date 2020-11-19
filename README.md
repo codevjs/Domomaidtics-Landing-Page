@@ -1,2 +1,2 @@
-# Domomaidtics-Landing-Page
+# Domomaidtics Landing Page
 Landing page Domomaidtics
