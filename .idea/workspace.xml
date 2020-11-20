@@ -23,6 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9288b269-c7d9-4b01-bfa0-7cd5c7756721" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +76,8 @@
       <workItem from="1605789538829" duration="2375000" />
       <workItem from="1605798792844" duration="1137000" />
       <workItem from="1605803439064" duration="947000" />
+      <workItem from="1605849048613" duration="471000" />
+      <workItem from="1605863348818" duration="169000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605799561834</created>
@@ -156,6 +159,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Shortcut Icon" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="650" y="16" key="#Web_Browsers" timestamp="1605849179073">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="650" y="16" key="#Web_Browsers/0.0.1440.900@0.0.1440.900" timestamp="1605849179073" />
     <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1605805015619">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
