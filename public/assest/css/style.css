@@ -215,7 +215,7 @@ ul.menu.active{display: block;margin-top: 50px;}
     display: none;
 }
 
-.main-logo {display:  inline-block; margin-top: 0;}
+.main-logo {display:  inline-block; margin-top: -15px;}
 
 header.heading_area .boxed_btn.mobile:hover {
     background-color: #00baff;
@@ -318,7 +318,7 @@ ul.slicknav_nav li a:focus {
     transition: .5s;
 }
 
-.sticky-wrapper.is-sticky #header img {width: 120%;transition: .5s;}
+.sticky-wrapper.is-sticky #header img {width: 50%;transition: .5s;}
 
 .sticky-wrapper.is-sticky #header .boxed_btn {padding-top: 0px;padding-bottom: 0px;margin-top: 7px;}
 
