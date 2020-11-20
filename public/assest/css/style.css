@@ -318,10 +318,6 @@ ul.slicknav_nav li a:focus {
 
 .sticky-wrapper.is-sticky #header .boxed_btn {padding-top: 0px;padding-bottom: 0px;margin-top: 7px;}
 
-
-
-
-
 /*===============================
     *Hero Area CSS
 ================================*/
@@ -336,6 +332,9 @@ ul.slicknav_nav li a:focus {
     max-width: 100% !important;
     z-index: -1;
     border: none;
+}
+div.hero-area {
+    height: 72vh !important;
 }
 .hero_area img{
    width: auto;
@@ -436,6 +435,7 @@ ul.slicknav_nav li a:focus {
     background-color:  #00baff;
     color:  #fff;
     padding:  45px 0px;
+    border-radius: 80px;
 }
 .social h6,.social p {
     color:  #fff;
