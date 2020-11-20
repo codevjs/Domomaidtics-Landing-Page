@@ -86,7 +86,7 @@
       <workItem from="1605803439064" duration="947000" />
       <workItem from="1605849048613" duration="471000" />
       <workItem from="1605863348818" duration="1200000" />
-      <workItem from="1605871118089" duration="2688000" />
+      <workItem from="1605871118089" duration="3542000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605799561834</created>
@@ -144,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605875338330</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="change logo">
+      <created>1605878845776</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605878845776</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,17 +188,18 @@
     <MESSAGE value="Shortcut Icon" />
     <MESSAGE value="setup log event analytics" />
     <MESSAGE value="change layout and css" />
-    <option name="LAST_COMMIT_MESSAGE" value="change layout and css" />
+    <MESSAGE value="change logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="change logo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="650" y="16" key="#Web_Browsers" timestamp="1605849179073">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="650" y="16" key="#Web_Browsers/0.0.1440.900@0.0.1440.900" timestamp="1605849179073" />
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1605875508146">
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1605878847440">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605875508146" />
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605878847440" />
     <state x="463" y="337" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605799544020">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
