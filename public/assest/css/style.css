@@ -215,7 +215,7 @@ ul.menu.active{display: block;margin-top: 50px;}
     display: none;
 }
 
-.main-logo {display:  inline-block; margin-top: -15px;}
+.main-logo {display:  inline-block; margin-top: -15px; padding: 5px 0}
 
 header.heading_area .boxed_btn.mobile:hover {
     background-color: #00baff;
