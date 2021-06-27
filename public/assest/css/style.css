@@ -23,7 +23,7 @@
 /*===============================
     *BASE CSS
 ================================*/
-@font-face(font-display: fallback)
+@font-face(font-display: fallback);
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800');
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800');
 body{
@@ -56,8 +56,8 @@ ul{
 .boxed_btn {
     display:  inline-block;
     background-color: #fff;
-    color:  #00baff;
-    border: 1px solid #00baff;
+    color:  #4093b5;
+    border: 1px solid #4093b5;
     font-size: 12px;
     padding: 7px 35px;
     border-radius: 50px;
@@ -69,7 +69,7 @@ ul{
 .boxed_btn:hover {
     color: #fff;
     box-shadow: 0 3px 6px #B2DAFF;
-    background-color: #00baff;
+    background-color: #4093b5;
 }
 .padding-75 {
     padding: 75px 0px;
@@ -140,8 +140,8 @@ input:focus {
 
 }
 .main_menu li a:hover {
-    color: #00baff;
-    border-color: #00baff;
+    color: #4093b5;
+    border-color: #4093b5;
 }
 .main_menu li a.boxed_btn {
     display: none;
@@ -170,7 +170,7 @@ ul.menu li a {
 }
 
 ul.menu li a:hover {
-    border-color: #00baff;
+    border-color: #4093b5;
 }
 header.heading_area .boxed_btn.mobile {
     display: inline-block;
@@ -218,7 +218,7 @@ ul.menu.active{display: block;margin-top: 50px;}
 .main-logo {display:  inline-block; margin-top: -15px; padding: 5px 0}
 
 header.heading_area .boxed_btn.mobile:hover {
-    background-color: #00baff;
+    background-color: #4093b5;
 }
 .slicknav_menu {
     margin-top: -2px;
@@ -275,7 +275,7 @@ ul.slicknav_nav {
 
 .slicknav_nav a:hover {
     background-color: #fff;
-    border-bottom: 2px solid #00baff;
+    border-bottom: 2px solid #4093b5;
 }
 
 .slicknav_nav a {
@@ -410,8 +410,8 @@ div.hero-area {
 }
 .hero_text .boxed_btn {
     background-color:  #fff;
-    color:  #00baff;
-    border: 1px solid #00baff;
+    color:  #4093b5;
+    border: 1px solid #4093b5;
     margin-top: 30px;
     margin-right: 12px;
 }
@@ -420,7 +420,7 @@ div.hero-area {
 }
 .hero_text .boxed_btn:hover {
     color: #fff;
-    background-color: #00baff;
+    background-color: #4093b5;
 }
 .hero_area img {
     padding: 15px 0px;
@@ -430,16 +430,16 @@ div.hero-area {
     margin-top: 25%;
     margin-left: 5px;
 }
-.hero_text .boxed_btn.active{background-color: #00baff;color: #fff;box-shadow: 0 2px 6px #71b6f7;}
+.hero_text .boxed_btn.active{background-color: #4093b5;color: #fff;}
 
 /*===============================
     *Social Area CSS
 ================================*/
 .social_bg {
-    background-color:  #00baff;
+    background-color:  #4093b5;
     color:  #fff;
     padding:  45px 0px;
-    border-radius: 80px;
+    border-radius: 10px;
 }
 .social h6,.social p {
     color:  #fff;
@@ -486,7 +486,7 @@ div.hero-area {
     content: "";
     width: 100%;
     height: 100%;
-    background-color: #00baff;
+    background-color: #4093b5;
     position: absolute;
     bottom: 36px;
     left: 0;
@@ -544,7 +544,7 @@ div.hero-area {
 .dot {
     height:  18px;
     width:  18px;
-    background-color:  #00baff;
+    background-color:  #4093b5;
     position:  absolute;
     top: 0px;
     left:  0;
@@ -605,7 +605,7 @@ div.hero-area {
     margin-bottom: 0px;
 }
 .video_play_btn {
-    background-color: #00baff;
+    background-color: #4093b5;
     display:  inline-block;
     height: 65px;
     width:  65px;
@@ -636,7 +636,7 @@ div.hero-area {
     position:  relative;
     z-index:  1;
     width:  130%;
-    background-image: url(../img/video-area-bg.jpg);
+    background-image: url(../img/video-area-bg-2.jpg);
 }
 .video_area {
     overflow:  hidden;
@@ -653,7 +653,7 @@ div.hero-area {
     opacity:  .35;
 }
 .video_play_btn:hover {
-    box-shadow: 1px 2px 5px #00baff;
+    box-shadow: 1px 2px 5px #4093b5;
 }
 
 
@@ -694,7 +694,7 @@ div.hero-area {
 .tm-user img {
     border-radius:  50%;
     background-color: #fff;
-    border: 3px solid #00baff;
+    border: 3px solid #4093b5;
     margin-bottom:  10px;
 }
 .tm-user h6 {
@@ -746,8 +746,8 @@ div.hero-area {
     transition: all .3s ease-in-out;
 }
 .textimonial-carousel .owl-nav button:hover {
-    color: #00baff !important;
-    border-color: #00baff !important;
+    color: #4093b5 !important;
+    border-color: #4093b5 !important;
 }
 .textimonial-carousel .owl-nav .owl-next {
     left:  auto;
@@ -771,6 +771,7 @@ div.hero-area {
     -webkit-transition: all .3s ease-in-out;
     -mox-transition: all .3s ease-in-out;
     transition:  all .3s ease-in-out;
+    border-radius: 10px;
 }
 .single_pirce_box:hover {
     box-shadow: 0 0 10px #cac4c4;
@@ -785,7 +786,8 @@ div.hero-area {
     border-top: none;
 }
 .pricing_head {
-    border-top: 5px solid #00baff;
+    border-top: 5px solid #4093b5;
+    border-radius: 10px;
 }
 .border-right-none {
     border: none;
@@ -799,7 +801,7 @@ div.hero-area {
 .popular-item {
     font-size: 18px;
     display: inline-block;
-    background-color: #00baff;
+    background-color: #4093b5;
     padding: 20px;
     color:  #fff;
     font-weight: 400;
@@ -817,7 +819,7 @@ div.hero-area {
     content:  "";
     border-width: 18px;
     border-style:  solid;
-    border-color: transparent transparent transparent  #00baff;
+    border-color: transparent transparent transparent  #4093b5;
     position:  absolute;
     top: -18px;
     right: -15px;
@@ -832,7 +834,7 @@ div.hero-area {
     content:  "";
     border-width:  18px;
     border-style:  solid;
-    border-color: #00baff transparent transparent;
+    border-color: #4093b5 transparent transparent;
     position:  absolute;
     top: -18px;
     left: -15px;
@@ -840,12 +842,12 @@ div.hero-area {
 }
 .pricing_head h4 {
     font-size: 18px;
-    color:  #00baff;
+    color:  #4093b5;
     margin-bottom: 20px;
 }
 .pricing_head p {
     font-size:  36px;
-    color:  #00baff;
+    color:  #4093b5;
     font-weight:  700;
 }
 .pricing_head p sub {
@@ -874,17 +876,17 @@ div.hero-area {
     *Call to Action CSS
 ================================*/
 .cta_area {
-    background-color:  #00baff;
+    background-color:  #4093b5;
     padding:  50px;
 }
 .cta_area h2 {
     color:  #fff;
     font-size: 30px;
 }
-.cta_area .boxed_btn:hover{background-color: #00baff;color: #fff}
+.cta_area .boxed_btn:hover{background-color: #4093b5;color: #fff}
 .cta_area .boxed_btn {
     background-color:  #fff;
-    color: #00baff;
+    color: #4093b5;
     font-weight: 500;
     padding: 10px 30px;
 }
@@ -921,8 +923,8 @@ div.hero-area {
     background-color: #fff;
     display:  inline-block;
     border:  none;
-    color:  #00baff;
-    border: 1px solid #00baff;
+    color:  #4093b5;
+    border: 1px solid #4093b5;
     border-radius: 50px;
     padding:  11px 40px;
     cursor: pointer;
@@ -933,7 +935,7 @@ div.hero-area {
 
 }
 .form-group button:hover {
-    background-color: #00baff;
+    background-color: #4093b5;
     color: #fff;
 }
 
@@ -960,7 +962,7 @@ div.hero-area {
     transition: all .3s ease-in-out;
 }
 .footer_area li a:hover {
-    color:  #00baff;
+    color:  #4093b5;
 }
 
 
@@ -972,7 +974,7 @@ div.hero-area {
     height:  50px;
     border-radius: 5px;
     text-align:  center;
-    background-color:  #00baff;
+    background-color:  #4093b5;
     box-shadow: 0 5px 5px #B5DBFF;
     bottom: 0;
     right: -10px;
@@ -984,7 +986,7 @@ div.hero-area {
     height: 16px;
 }
 .apst-button:hover {
-    background-color: #00baff;
+    background-color: #4093b5;
 }
 
 
@@ -1204,7 +1206,7 @@ div.hero-area {
     }
     header.heading_area .boxed_btn.mobile {
         margin-bottom: 15px;
-        background-color: #00baff;
+        background-color: #4093b5;
     }
     #header {
         background: #fff;

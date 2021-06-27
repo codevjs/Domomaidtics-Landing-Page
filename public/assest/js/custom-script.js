@@ -16,5 +16,5 @@ firebase.initializeApp(config);
 
 const analytics = firebase.analytics();
 
-analytics.logEvent('start_page');
+analytics.logEvent(window.location.pathname);
 

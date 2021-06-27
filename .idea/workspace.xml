@@ -22,9 +22,24 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9288b269-c7d9-4b01-bfa0-7cd5c7756721" name="Default Changelist" comment="">
+    <list default="true" id="9288b269-c7d9-4b01-bfa0-7cd5c7756721" name="Default Changelist" comment="add ecosystem logo">
+      <change afterPath="$PROJECT_DIR$/public/cctv/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/product/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/smart-1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/smart-2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/assest/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assest/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assest/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assest/img/e213a495-stylish-bg-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assest/img/feature.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assest/img/features-img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assest/img/hero-area-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assest/img/hero_area_img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assest/img/home_page_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assest/img/mobile-app.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assest/img/tm-profile-img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assest/img/video-area-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assest/js/custome-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assest/js/custom-script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +51,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -45,7 +61,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="edit-style" />
+        <entry key="$PROJECT_DIR$" value="add-ecosystem-logo" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,19 +73,39 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/cctv" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/cctv" />
       <recent name="$PROJECT_DIR$/src/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -90,7 +126,15 @@
       <workItem from="1605888338328" duration="8000" />
       <workItem from="1605893263879" duration="91000" />
       <workItem from="1605935870583" duration="18000" />
-      <workItem from="1606213549248" duration="2989000" />
+      <workItem from="1606213549248" duration="3806000" />
+      <workItem from="1606319668627" duration="86000" />
+      <workItem from="1623419558754" duration="1192000" />
+      <workItem from="1623836965764" duration="4246000" />
+      <workItem from="1624364824856" duration="1488000" />
+      <workItem from="1624421279712" duration="2175000" />
+      <workItem from="1624630505228" duration="327000" />
+      <workItem from="1624675795095" duration="7409000" />
+      <workItem from="1624781196128" duration="5853000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605799561834</created>
@@ -169,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605880949827</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add ecosystem logo">
+      <created>1606217807385</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606217807385</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,24 +259,7 @@
     <MESSAGE value="change layout and css" />
     <MESSAGE value="change logo" />
     <MESSAGE value="Change Logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change Logo" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="650" y="16" key="#Web_Browsers" timestamp="1605849179073">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="650" y="16" key="#Web_Browsers/0.0.1440.900@0.0.1440.900" timestamp="1605849179073" />
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1605880952229">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605880952229" />
-    <state x="463" y="337" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605799544020">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="463" y="337" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900@0.0.1440.900" timestamp="1605799544020" />
-    <state width="600" height="440" key="javadoc.popup" timestamp="1605793193211">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="600" height="440" key="javadoc.popup/0.0.1440.900@0.0.1440.900" timestamp="1605793193211" />
+    <MESSAGE value="add ecosystem logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ecosystem logo" />
   </component>
 </project>
