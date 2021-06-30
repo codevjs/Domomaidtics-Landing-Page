@@ -22,25 +22,14 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9288b269-c7d9-4b01-bfa0-7cd5c7756721" name="Default Changelist" comment="add ecosystem logo">
-      <change afterPath="$PROJECT_DIR$/public/cctv/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/product/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/smart-1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/smart-2/index.html" afterDir="false" />
+    <list default="true" id="9288b269-c7d9-4b01-bfa0-7cd5c7756721" name="Default Changelist" comment="add price list">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/assest/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assest/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assest/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assest/img/e213a495-stylish-bg-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assest/img/feature.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assest/img/features-img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assest/img/hero-area-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assest/img/hero_area_img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assest/img/home_page_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assest/img/mobile-app.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assest/img/tm-profile-img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assest/img/video-area-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assest/js/custome-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assest/js/custom-script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cctv/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/cctv/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/product/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/product/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/smart-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/smart-1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/smart-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/smart-2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,19 +83,6 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -134,7 +110,8 @@
       <workItem from="1624421279712" duration="2175000" />
       <workItem from="1624630505228" duration="327000" />
       <workItem from="1624675795095" duration="7409000" />
-      <workItem from="1624781196128" duration="5853000" />
+      <workItem from="1624781196128" duration="9673000" />
+      <workItem from="1625052044415" duration="4834000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605799561834</created>
@@ -220,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606217807385</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add price list">
+      <created>1624808746432</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1624808746433</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,6 +244,7 @@
     <MESSAGE value="change logo" />
     <MESSAGE value="Change Logo" />
     <MESSAGE value="add ecosystem logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ecosystem logo" />
+    <MESSAGE value="add price list" />
+    <option name="LAST_COMMIT_MESSAGE" value="add price list" />
   </component>
 </project>
